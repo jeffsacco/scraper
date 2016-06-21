@@ -1,0 +1,10 @@
+.DS_Store
+.phpintel/
+.svn/
+backup_infected_files.tgz
+clean_infected.sh
+db_changes.txt
+htdocs/
+secure/
+ubb/
+zfoo.txt
